@@ -2,6 +2,8 @@
 
 # crosswalk
 
+[![smithery badge](https://smithery.ai/badge/jason-0bjn/crosswalk)](https://smithery.ai/servers/jason-0bjn/crosswalk)
+
 An inbox your AI reads, plus notes and shared crosswalks your agents read and write.
 
 crosswalk is a remote MCP server at `https://mcp.crosswalk.to`. This repo holds no server code, only the plugin and extension manifests that point clients at it.
