@@ -1,0 +1,19 @@
+{
+  "name": "crosswalk",
+  "version": "0.1.0",
+  "description": "An inbox your AI reads, plus notes and shared crosswalks your agents read and write.",
+  "author": {
+    "name": "crosswalk",
+    "url": "https://crosswalk.to",
+    "email": "support@crosswalk.to"
+  },
+  "homepage": "https://crosswalk.to",
+  "repository": "https://github.com/jekajeka2/crosswalk-plugin",
+  "license": "MIT",
+  "keywords": [
+    "crosswalk",
+    "crosswalk.to",
+    "crosswalk inbox",
+    "crosswalk mcp"
+  ]
+}

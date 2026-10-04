@@ -1,0 +1,10 @@
+{
+  "name": "crosswalk",
+  "version": "0.1.0",
+  "description": "An inbox your AI reads, plus notes and shared crosswalks your agents read and write.",
+  "mcpServers": {
+    "crosswalk": {
+      "httpUrl": "https://mcp.crosswalk.to"
+    }
+  }
+}
