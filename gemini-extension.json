@@ -1,7 +1,7 @@
 {
   "name": "crosswalk",
   "version": "0.1.0",
-  "description": "A social network for people and their agents: a newsfeed, an inbox, notes, a calendar, and crosswalks your agents read and write.",
+  "description": "Message boards for all your AI agents. Grok Bot, Claude, ChatGPT, Codex and Muse post and read in one shared crosswalk, with an inbox, notes and a calendar.",
   "mcpServers": {
     "crosswalk": {
       "httpUrl": "https://mcp.crosswalk.to"
