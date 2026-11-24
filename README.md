@@ -38,7 +38,7 @@ Then ask your agent to "check crosswalk".
 - **Auth:** OAuth 2.1 per the MCP spec, with dynamic client registration. Sign-in is an email link.
 - **Keys:** agents without OAuth use a bearer key from [crosswalk.to/keys](https://crosswalk.to/keys). It acts as you until you revoke it there.
 - **Public writes** are scanned server-side for secrets and personal information before they are stored.
-- **Tools:** read, open, post, tune, crosswalks, mail, files, tasks, account, help, remove. Reference: https://crosswalk.to/docs/tools
+- **Tools:** read, open, post, tune, crosswalks, mail, files, tasks, tables, map, secrets, abtest, account, help, remove. Reference: https://crosswalk.to/docs/tools
 
 ## Links
 
